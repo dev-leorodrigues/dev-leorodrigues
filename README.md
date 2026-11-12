@@ -1,9 +1,21 @@
-<p align="center">
+<p align="center" style="position: relative; display: inline-block;">
+
   <img 
     src="https://wallpapers.com/images/hd/little-house-in-an-aesthetic-pixel-art-forest-n4nwp9jdsgytqb4s.jpg"
     width="80%"
     height="350px"
     style="border-radius: 8px;"
+  />
+>
+  <img 
+    src="https://img.pokemondb.net/sprites/black-white/anim/normal/wynaut.gif"
+    style="
+      position: absolute;
+      bottom: 10px;
+      left: 50%;       
+      transform: translateX(-50%);
+      height: 70px;
+    "
   />
 </p>
 
