@@ -47,9 +47,9 @@ Meu foco está no desenvolvimento front-end, criando interfaces bonitas, respons
 
 - Desenvolvimento web  
 - Lógica e estrutura de programação  
-- Boas práticas de UI/UX  
-
+- Boas práticas de UI/UX
+   
 <p align="center">
-  <img src="https://64.media.tumblr.com/c83c96cfb5a65fe5cff5347320a4ea30/tumblr_oaw7n26XQd1v68t0mo1_640.gif" height="200px" />
+  <img src="https://img1.picmix.com/output/pic/normal/9/7/6/0/11820679_f2a03.gif" height="200px" />
 </p>
 
