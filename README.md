@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80bc61c1-d661-4f65-93ed-a63943599286/d9nydp2-cb6923c3-6097-4e74-a581-a26342ee3ced.png/v1/fill/w_1192,h_670,q_70,strp/pokemon_gold_and_silver_s_intro_wallpaper_by_javidg96_d9nydp2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjk5MSIsInBhdGgiOiJcL2ZcLzgwYmM2MWMxLWQ2NjEtNGY2NS05M2VkLWE2Mzk0MzU5OTI4NlwvZDlueWRwMi1jYjY5MjNjMy02MDk3LTRlNzQtYTU4MS1hMjYzNDJlZTNjZWQucG5nIiwid2lkdGgiOiI8PTUzMTcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.eCzjc-QQ95vd-3cwY8fLQAUiM7PjVq6xsp1zq39EO3Q" 
-    width="100%" 
+    width="75%" 
     height="250px"
     style="border-radius: 8px;"
   />
