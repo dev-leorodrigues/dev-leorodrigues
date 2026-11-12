@@ -20,9 +20,9 @@
   />
 </p>
 
-Sou acadêmico de **Sistemas de Informação na UEMS** e estagiário na **Dourasoft**, onde transformo aprendizado em prática e prática em evolução.
+Sou acadêmico de Sistemas de Informação na UEMS e estagiário na Dourasoft, integrando teoria e prática para aprimorar minhas habilidades e avançar profissionalmente.
 
- Tecnologias que fazem parte do meu dia a dia
+ Tecnologias que estou aprendendo:
 
 Front-end: React, Tailwind CSS  
 Linguagens: JavaScript, TypeScript, Python, C  
@@ -48,7 +48,7 @@ Interesses: UX, interfaces modernas, boas práticas de código
 
 
 
- O que me move
+Meus interesses:
 
 Gosto de aprender na prática, resolver problemas e criar soluções que realmente funcionem.  
 Meu foco está no desenvolvimento front-end, criando interfaces bonitas, responsivas e intuitivas.
@@ -59,7 +59,8 @@ Meu foco está no desenvolvimento front-end, criando interfaces bonitas, respons
 - Desenvolvimento web  
 - Lógica e estrutura de programação  
 - Boas práticas de UI/UX
+
    
-<p align="center">
-  <img src="https://media.tenor.com/b95wTSys4DQAAAAM/wobbuffet-pokemon.gif" height="200px" />
+<p align="left">
+  <img src="https://media1.tenor.com/m/80-7IlxdTkEAAAAC/wobbuffet.gif" height="200px" />
 </p>
