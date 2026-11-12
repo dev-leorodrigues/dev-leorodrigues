@@ -61,5 +61,5 @@ Meu foco está no desenvolvimento front-end, criando interfaces bonitas, respons
 - Boas práticas de UI/UX
    
 <p align="center">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/wynaut.gif" height="80px" />
+  <img src="https://media.tenor.com/Fc38OsLYsw8AAAAM/wynaut-sonano.gif" height="200px" />
 </p>
