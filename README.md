@@ -61,5 +61,5 @@ Meu foco está no desenvolvimento front-end, criando interfaces bonitas, respons
 - Boas práticas de UI/UX
    
 <p align="center">
-  <img src="https://media.tenor.com/Fc38OsLYsw8AAAAM/wynaut-sonano.gif" height="200px" />
+  <img src="https://media.tenor.com/9FRDPPQ3BfYAAAAM/wynaut-pokemon.gif" height="200px" />
 </p>
