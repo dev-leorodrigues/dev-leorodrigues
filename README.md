@@ -2,7 +2,7 @@
   <img 
     src="https://wallpapers.com/images/hd/little-house-in-an-aesthetic-pixel-art-forest-n4nwp9jdsgytqb4s.jpg"
     width="80%"
-    height="250px"
+    height="350px"
     style="border-radius: 8px;"
   />
 </p>
