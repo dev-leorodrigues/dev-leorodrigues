@@ -7,7 +7,8 @@
     style="border-radius: 8px;"
   />
 >
-  <img 
+
+ Bem-vindo ao meu espaço no GitHub  <img 
     src="https://img.pokemondb.net/sprites/black-white/anim/normal/wynaut.gif"
     style="
       position: absolute;
@@ -18,8 +19,6 @@
     "
   />
 </p>
-
- Bem-vindo ao meu espaço no GitHub
 
 Sou acadêmico de **Sistemas de Informação na UEMS** e estagiário na **Dourasoft**, onde transformo aprendizado em prática e prática em evolução.
 
