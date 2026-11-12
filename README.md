@@ -50,6 +50,5 @@ Meu foco está no desenvolvimento front-end, criando interfaces bonitas, respons
 - Boas práticas de UI/UX
    
 <p align="center">
-  <img src="https://img1.picmix.com/output/pic/normal/9/7/6/0/11820679_f2a03.gif" height="200px" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/wynaut.gif" height="80px" />
 </p>
-
