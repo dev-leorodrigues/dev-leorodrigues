@@ -2,8 +2,8 @@
 
   <img 
     src="https://wallpapers.com/images/hd/little-house-in-an-aesthetic-pixel-art-forest-n4nwp9jdsgytqb4s.jpg"
-    width="80%"
-    height="350px"
+    width="100%"
+    height="370px"
     style="border-radius: 8px;"
   />
 >
